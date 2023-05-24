@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz23a</string>
+    <string name="question_jalisco">Guadalajara es la capital de jalisco</string>
+    <string name="question_ameca">Ameca se encuentra afuera de jalisco</string>
+    <string name="question_zacatecas">Zacatecas no tiene capital</string>
+    <string name="question_tlaxcala">Tlaxcala es el esatdo mas grande de Mexico</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">¡Correcto!</string>
+    <string name="incorrect_toast">¡Incorrecto!</string>
+    <string name="warning_text">Estas seguro que quieres esto?</string>
+    <string name="show_answer_button">Mostrar respuesta</string>
+    <string name="cheat_button">trampa!</string>
+    <string name="judgment_toast">hacer trampa esta mal.</string>
+    <string name="next_button">Siguiente</string>
+    <string name="prev_button">Anterior</string>
+</resources>
